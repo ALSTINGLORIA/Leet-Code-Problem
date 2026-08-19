@@ -1,2 +1,2 @@
-# This Repo contains solutions to some Leetcode problems
-34 questions Completed as of now
+# This Repo contains solutions to some DSA Problems
+Most DSA are from a-z striver sheet and others from leetcode
